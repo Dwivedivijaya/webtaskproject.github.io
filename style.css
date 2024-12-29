@@ -1,0 +1,1192 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,400;0,500;0,700;1,300&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Teko:wght@300;400;500;600;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", serif;
+}
+
+.headerbgs {
+    background: #070D2D;
+    height: 90vh;
+}
+
+p {
+    font-family: "Inter", serif;
+}
+
+a {
+    font-family: "Inter", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Inter", serif;
+}
+
+
+.imgsctions img {
+    width: 100%;
+    height: 75vh;
+}
+
+section.mainTsectionTops {
+    background: #050505;
+
+}
+
+.dropdownloads {
+    display: none;
+}
+
+.INSIGHTSTesta {
+    padding: 90px 110px;
+}
+
+.INSIGHTSTesta h6 {
+    color: #93D522;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    letter-spacing: 0.9;
+    font-family: 'Inter';
+    font-weight: 600;
+}
+
+h3.headscol {
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+p.textcolsa {
+    font-size: 14px;
+    color: #d5c7c7;
+}
+
+.arrowiconsview {
+    text-align: right;
+    margin-top: 50px;
+}
+
+.arrowiconsview {
+    text-align: right;
+    margin-top: 50px;
+}
+
+.arrowiconsview img {
+    width: 70px;
+    transition: all 0.3s ease;
+}
+
+.arrowiconsview img:hover {
+    width: 50px;
+    margin-left: 3px;
+}
+
+section.partnershipsSection {
+    background: #F2F2F2;
+    padding: 25px 50px;
+}
+
+.partnerhead h2 {
+    color: #323232;
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 15px;
+    font-weight: 400;
+    font-family: 'Inter';
+}
+
+.partnercur {
+    display: flex;
+    align-items: center;
+    gap: 105px;
+    margin-top: 9px;
+}
+
+span.imgcompanyicons img {
+    width:150px;
+}
+
+.clientmains {
+    background: #F2F2F2;
+    padding: 30px;
+    border-radius: 2px;
+    height: 65vh;
+}
+
+.arrowIconsBg {}
+
+.iconClientss {
+    text-align: right;
+    margin-bottom: 15px;
+}
+
+.iconClientss i {
+    color: #32323238;
+    font-size: 30px;
+}
+
+.clientmains {
+    background: #F2F2F2;
+    padding: 30px 50px 20px;
+    border-radius: 2px;
+    height: 70vh;
+}
+
+.textclientArrows p {
+    font-size: 14px;
+    color: #0000008c;
+    margin-bottom: 45px;
+    line-height: 22px;
+}
+
+.namecleints {
+    text-align: right;
+}
+
+.namecleints h6 {
+    color: #2494EA;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+.namecleints p {
+    color: #0000008c;
+    font-size: 13px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+.footer {
+    background: linear-gradient(108deg, #05061e 0%, #000000 100%) 0% 0% no-repeat padding-box;
+    height: 100%;
+    padding: 40px 0 0;
+}
+
+.footerbgs {
+    /* background:url('img/Group 3.png');
+     height:25vh; */
+}
+
+.footershead h6 {
+    text-align: left;
+    letter-spacing: 0.3px;
+    color: #FFFFFF;
+    font-size: 22px;
+}
+
+.footershead p {
+    text-align: left;
+    letter-spacing: NaNpx;
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-bottom: 5px;
+    font-family: 'Inter';
+}
+
+.footershead .spanemails {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.patextsemails {
+    padding-top: 9px;
+}
+
+.footerIcons {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.footerIcons span i {
+    color: #2494EA;
+    font-size: 16px;
+}
+
+.footershead {
+    padding-right: 30px;
+}
+
+.ulfooterslists ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.ulfooterslists ul li {
+    color: #fff;
+    font-size: 13px;
+    margin-bottom: 8px;
+    transition: all 0.3s ease;
+}
+
+.ulfooterslists ul li:hover {
+    color: #dc001a;
+    margin-left: 3px;
+
+}
+
+.copy {
+    border-top: 1px solid #99999936;
+    padding: 15px 50px 30px;
+    margin-top: 25px;
+}
+
+.copy p {
+    color: #fff;
+    font-size: 14px;
+    padding-bottom: 0;
+    margin-bottom: 0px;
+}
+
+p.copytexts {
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+.contfooters {
+    padding: 0px 50px;
+}
+
+section.clientlocationSection {
+    padding: 40px 50px;
+}
+
+img.imggellerys {
+    width: 100%;
+    height: 217px;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+img.imggellerys:hover {
+    margin-top: 5px;
+}
+
+.imggellerysPlaces {
+    position: relative;
+}
+
+.imggellerysNames {
+    position: absolute;
+    /* background: red; */
+    background: #2494ea85;
+    bottom: 0px;
+    text-align: left;
+    width: 200px;
+    right: 0;
+    padding: 10px 15px;
+    color: #fff;
+}
+
+.imggellerysNames h6 {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.imggellerysNames p {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.imgagesGellerys {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: #0000009e;
+}
+
+.imgagesGellerys h3 {
+    font-size: 16px;
+    padding: 10px;
+    color: #fff;
+    margin: 0;
+}
+
+section.digitalmarketSection {
+    padding: 25px 50px;
+    position: relative;
+}
+
+img.imgs1 {
+    width: 100%;
+}
+
+.marketsSectionHead h4 {
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.marketsSectionHead p {
+    font-size: 13px;
+}
+
+.marketsSectionHead p {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.plcaes1 {
+    margin-top: 30px;
+}
+
+.plcaes2 {
+    margin-top: 54px;
+}
+
+.ditalsMarkets.plcaes3 {
+    margin-top: 80px;
+}
+
+.viewmores {
+    background: #dee2e6;
+    width: 80px;
+    height: 59px;
+    text-align: center;
+}
+
+.backblogs img {
+    width: 72px;
+    /* bottom: 0px; */
+    position: absolute;
+    bottom: 37px;
+    left: 5px;
+    z-index: 10000;
+}
+
+.backblogs {
+    position: relative;
+}
+
+.viewmores p {
+    padding-top: 21px;
+}
+
+span.iconbtns {
+    background: #2494EA;
+    /* height: 21px; */
+    color: #fff;
+    padding: 6px 9px;
+    display: flex;
+    flex-direction: column;
+    width: 79px;
+    text-align: center;
+}
+
+.blogstopssMains {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+}
+
+.blogstopssMains {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    position: absolute;
+    right: 49px;
+    top: 55px;
+}
+
+span.iconbtns a {
+    color: #fff;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+span.iconbtns i {
+    padding: 0px;
+    margin: 0;
+    line-height: 0px;
+    font-size: 15px;
+}
+
+section.technolgysSection {
+    padding: 66px 0px 25px;
+    position: relative;
+    margin-top: 57px;
+}
+
+.bgprintstechnology {
+    padding: 20px;
+    background: #dee2e6;
+    height: 50vh;
+}
+
+.imgtecgno {
+    position: absolute;
+    top: 68px;
+}
+
+.bgprintstechnology h1 {
+    font-size: 50px;
+    margin-top: 33px;
+    font-weight: 300;
+    font-family: 'Inter';
+}
+
+img.imggellerysItams {
+    width: 100%;
+    height: 50vh;
+    border-radius: 2px;
+    /* transition: all 0.3s ease; */
+}
+
+.imggellerysPlacesUSA {
+    position: absolute;
+    bottom: 25px;
+    display: flex;
+    gap: 0px;
+    margin-left: 8px;
+    padding: 0;
+    width: 340px;
+}
+
+.imggellerysNamesUSA {
+    background: #ffc91a7d;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.imggellerysNamesUSA h6 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.digitailslist p {
+    margin-bottom: 7px;
+    font-size: 12px;
+}
+
+span.iconbtnsSpans {
+    background: #00000087;
+    width: 54px;
+    padding: 10px 5px;
+}
+
+.iconbtnsSpans {
+    background: #00000087;
+    width: 76px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+span.iconbtnsSpans a {
+    font-size: 10px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 13px;
+}
+
+span.iconbtnsSpans i {
+    padding: 0;
+    margin: 0;
+    line-height: 18px;
+    color: #fff;
+}
+
+.imggebackgrounds {
+    position: absolute;
+    top: 63px;
+    display: flex;
+    gap: 0px;
+
+}
+
+.imggellerysNamesUSAGeller {
+    width: 250px;
+    border-top: 3px solid #0a58ca;
+    padding: 10px 20px;
+    background: #0a58ca40;
+    margin-left: 10px;
+}
+
+.listviewmoressImages {
+    margin-top: 107px;
+}
+
+.imggellerysNamesUSAGeller .imggellerysNamesUSA h6 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.imggellerysNamesUSAGeller .digitailslist p {
+    margin-bottom: 7px;
+    font-size: 12px;
+}
+
+div#navbarScroll {
+    align-items: center;
+    justify-content: end;
+    display: flex;
+}
+
+img.logos {
+    width: 150px;
+}
+
+.nav-itemListAbouts {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    margin-right: 22px;
+}
+
+a.nav-link-a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+a.nav-link-a:hover {
+    color: #dc001a;
+}
+
+.list-nav-list i {
+    font-size: 20px;
+}
+
+.list-nav-list-a i {
+    font-size: 33px;
+}
+
+.logoIcons {
+    position: relative;
+    top: -3px;
+}
+
+.containersa {
+    padding: 40px 50px;
+    position: relative;
+}
+
+.bannerslist h1 {
+    color: #fff;
+    font-size: 40px;
+}
+
+.bannerslist h1 span {
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+.bannerslist p {
+    color: #c7bcbc;
+    margin-top: 20px;
+}
+
+.spanbtnscompanys {
+    color: #fff;
+    font-size: 14px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-weight: 600;
+}
+
+.spanbtnscompanys i {
+    font-size: 20px;
+    color: #0d6efd;
+    transition: all 0.3s ease;
+}
+
+.spanbtnscompanys:hover {
+    color: #0d6efd;
+}
+
+.bannerslist {
+    padding: 40px 0px;
+}
+
+.bannersimges {
+    position: relative;
+}
+
+.bannersimges .imagesBannersa {
+    position: absolute;
+    width: 100%;
+    right: -59px;
+    top: -36px;
+}
+
+.bannersimges {
+    position: relative;
+}
+
+.ImgestrgBnners img {
+    position: absolute;
+    width: 100%;
+    top: -72px;
+    left: 41px;
+}
+
+section.cardsSections {
+    position: relative;
+    padding: 0px 50px;
+}
+
+section.cardsSections .cardcountsSections {
+    position: absolute;
+    width: 92%;
+    top: -124px;
+    background-image: linear-gradient(to left, #080E2E, #4e043c, #080E2E);
+    height: 23vh;
+    border: 1px solid #dddddd2b;
+}
+
+ul.Distributed {
+    display: flex;
+    gap: 9px;
+    /* border-right: 1px solid #ddd; */
+    align-items: center;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+
+ul.Distributed li {
+    width: 230px;
+    border-right: 1px solid #dddddd2b;
+    height: 144px;
+}
+
+.cardscounts {
+    padding: 30px 0px;
+}
+
+.cardscounts h4 {
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+.cardscounts p {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
+
+/* .imgcardsgallersy {
+    color: #fff;
+    text-align: center;
+    width: 200px;
+} */
+.imgcardsgallersy {
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    padding: 13px 0px;
+    justify-content: space-around;
+    padding-right: 18px;
+}
+
+.countsreactsaaTop h4 {
+    font-size: 16px;
+}
+
+.cardscounts h5 {
+    margin: 0;
+    padding: 0;
+}
+
+
+.TechnologyFast {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 19px;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.countsreactsaaTop .cardscounts {
+    padding: 30px 0px;
+}
+
+.TechnologyCounts h6 {
+    padding: 0;
+    line-height: 0px;
+}
+
+.reactCountsPng {
+    background-image: url(../image/logoslayars.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15vh;
+    position: relative;
+    z-index: 1;
+    width: 251px;
+    padding: 10px 23px;
+}
+
+.sidemanuss {
+    display: none;
+}
+
+
+
+
+@media screen and (max-width:576px) {
+    .logoIcons {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-right: 17px;
+        position: relative;
+        top: -5px;
+    }
+
+    .sidemanuss {
+        display: block;
+    }
+
+    .bannersimges .imagesBannersa {
+        display: none;
+        position: absolute;
+        width: 100%;
+        right: -59px;
+        top: -215px;
+    }
+
+    div#navbarScroll {
+        display: none;
+    }
+
+    .ImgestrgBnners img {
+        position: absolute;
+        width: 169px;
+        top: -173px;
+       left: 164px;
+    }
+
+    .spanbtnscompanys i {
+        font-size: 15px;
+    }
+
+    .spanbtnscompanys {
+        color: #fff;
+        font-size: 12px;
+    }
+
+    .bannerslist p {
+        color: #c7bcbc;
+        margin-top: 2px;
+        font-size: 9px;
+        margin: 0px;
+    }
+
+    .bannerslist h1 {
+        color: #fff;
+        font-size: 10px;
+    }
+
+    .containersa {
+        padding: 40px 20px;
+        position: relative;
+        position: relative;
+    }
+
+    .containersa .container-fluid {
+        position: absolute;
+        top: 0px;
+        width: 80%;
+    }
+
+    /* .headerbgs {
+        display: none;
+    }
+    section.cardsSections {
+       
+        display: none;
+    } */
+    .bgprintstechnology h1 {
+        font-size: 27px;
+        margin-top: 46px;
+    }
+
+    .bgprintstechnology {
+        padding: 20px;
+        background: #dee2e6;
+        height: 30vh;
+    }
+
+    span.iconbtnsSpans i {
+        padding: 0;
+        margin: 0;
+        line-height: 2px;
+        color: #fff;
+        font-size: 12px;
+    }
+
+    span.iconbtnsSpans {
+        background: #00000087;
+        width: 49px;
+        padding: 5px;
+        position: relative;
+        top: -13px;
+    }
+
+    .imggellerysNamesUSAGeller {
+        height: 27vh;
+        background: #0a58ca9c;
+        color: #fff;
+    }
+
+    .imggellerysNamesUSAGeller .digitailslist p {
+        margin-bottom: 1px;
+        font-size: 11px;
+    }
+
+    .imggellerysNamesUSAGeller h6 {
+        font-size: 14px;
+    }
+
+    .imggebackgrounds {
+        top: 161px;
+    }
+
+    .imggellerysNamesUSA h6 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .digitailslist p {
+        margin-bottom: 2px;
+        font-size: 10px;
+    }
+
+    img.imggellerysItams {
+        height: 30vh;
+    }
+
+    section.partnershipsSection {
+        padding: 20px 30px;
+    }
+
+    section.digitalmarketSection {
+        padding: 20px 30px;
+    }
+
+    .ditalsMarkets {
+        border: 1px solid #d1c5c5;
+        padding: 10px;
+        background: #f2f2f2;
+    }
+
+    .viewmores p {
+        padding-top: 12px;
+        font-size: 12px;
+        padding-left: 17px;
+    }
+
+    .backblogs img {
+        bottom: 10px;
+    }
+
+    .viewmores {
+        height: 32px;
+    }
+
+    span.iconbtns i {
+        font-size: 10px;
+    }
+
+    span.iconbtns {
+        padding: 3px 9px;
+        width: 59px;
+    }
+
+    .blogstopssMains {
+        top: -19px;
+        right: 31px;
+    }
+
+    .sidemanuss a {
+        display: 26px;
+        font-size: 30px;
+        color: #fff;
+    }
+
+    .partnerhead h2 {
+        font-size: 18px;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+
+    .ditalsMarkets.plcaes3 {
+        margin-top: 10px;
+    }
+
+    .partnercur {
+        gap: 4px;
+        margin-top: 9px;
+    }
+
+    .plcaes2 {
+        margin-top: 10px;
+    }
+
+    .plcaes1 {
+        margin-top: 10px;
+    }
+
+    span.imgcompanyicons img {
+        width: 50px;
+    }
+
+    .copy {
+        border-top: 1px solid #99999936;
+        padding: 10px;
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .footershead h6 {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .footershead p {
+        text-align: center;
+    }
+
+    .footershead {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 14px;
+    }
+
+    .footershead p {
+        margin-bottom: 0px;
+    }
+
+    .footerIcons {
+        margin-top: 0;
+        margin-bottom: 16px;
+    }
+
+    .footerIcons {
+        margin-top: 9px;
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        justify-content: center;
+    }
+
+    .footer {
+        padding: 25px 0 25px;
+    }
+
+    section.mainTsectionTops {
+
+        padding-top: 0px;
+    }
+
+    .imgsctions img {
+        width: 100%;
+        height: 35vh;
+    }
+
+    .INSIGHTSTesta {
+        padding: 20px 50px;
+    }
+
+    h3.headscol {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    p.textcolsa {
+        font-size: 12px;
+        color: #d5c7c7;
+    }
+
+    .arrowiconsview img {
+        width: 25px;
+        transition: all 0.3s ease;
+    }
+
+    .arrowiconsview {
+        margin-top: 10px;
+    }
+
+    .INSIGHTSTesta {
+        padding: 30px 50px 40px;
+    }
+
+    .ulfooterslists ul li {
+        color: #ffffffad;
+    }
+
+    section.clientlocationSection {
+        padding: 20px 30px;
+    }
+
+    .clientmains {
+        background: #F2F2F2;
+        padding: 10px 20px 10px;
+        border-radius: 2px;
+        height: 70vh;
+    }
+
+    .textclientmains {
+        margin-bottom: 20px;
+    }
+
+    .textclientArrows p {
+        margin-bottom: 5px;
+    }
+
+    .iconClientss i {
+        font-size: 20px;
+    }
+
+    .headerbgs {
+        height: 50vh;
+    }
+
+    section.cardsSections {
+        position: relative;
+        padding: 0px 30px;
+    }
+
+    .cardscounts h4 {
+        font-size: 12px;
+    }
+
+    .cardscounts p {
+        font-size: 12px;
+    }
+
+    ul.Distributed li {
+        width: 230px;
+        border-right: 1px solid #dddddd2b;
+        height: 47px;
+    }
+
+    ul.Distributed li {
+        width: 52px;
+        border-right: 1px solid #dddddd2b;
+        height: 47px;
+    }
+
+    .cardscounts p {
+        font-size: 7px;
+    }
+
+    ul.Distributed {
+        display: flex;
+        gap: 2px;
+    }
+
+    .countsreactsaaTop h4 {
+        font-size: 6px;
+    }
+
+    .cardscounts h5 {
+        font-size: 9px;
+    }
+
+    .TechnologyCounts h6 {
+        font-size: 12px;
+    }
+
+    section.cardsSections .cardcountsSections {
+        position: absolute;
+        width: 83%;
+    }
+
+    ul.Distributed li {
+        width: 43px;
+        border-right: 1px solid #dddddd2b;
+        height: 41px;
+    }
+
+    .cardscounts h5 {
+        font-size: 7px;
+    }
+
+    section.cardsSections {
+        position: relative;
+        padding: 0px 30px;
+        display: none;
+    }
+
+    section.technolgysSection {
+        margin-top: 0px;
+    }
+
+    section.technolgysSection {
+        padding: 0px 0px 25px;
+        position: relative;
+        margin-top: 0px;
+    }
+
+    .imgtecgno {
+        position: absolute;
+        top: 1px;
+    }
+
+    .dropdownloads {
+        background: #070d2d;
+        border: 1px solid #ffffff1f;
+        border-radius: 3px;
+        padding: 10px;
+        display: none;
+        position: absolute;
+        right: 19px;
+        top: 44px;
+        z-index: 99;
+    }
+
+    ul.dropmanubar {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+        color: #ddd;
+        font-size: 12px;
+        width: 150px;
+    }
+
+    ul.dropmanubar li {
+        color: #fff;
+        margin-bottom: 5px;
+    }
+
+    ul.dropmanubar li:hover {
+        color: #dc001a;
+    }
+    span.imgcompanyicons img {
+        width: 46px;
+    }
+}
